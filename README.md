@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/94097592/204354950-4c8648f0-77e2-440d-a112-a8bfc6762f76.jpg)
+<!-- ![logo](https://user-images.githubusercontent.com/94097592/204354950-4c8648f0-77e2-440d-a112-a8bfc6762f76.jpg) -->
 
 <h1 align="center"> Hi.!! 👋, shaikh_md. here..!!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
