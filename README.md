@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi.!! 👋, shaikh_md here..!!</h1>
+<h1 align="center"> Hi.!! 👋, shaikh_md. here..!!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="it'me 😎" width="420px" height="300px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmd007&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmd007" /> </p>
