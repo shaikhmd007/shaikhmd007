@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi.!! 👋, shaikh_md. here..!!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="it'me 😎" width="420px" height="300px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> 
+<img align="right" alt="it'me 😎" width="350px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmd007&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmd007" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
@@ -15,15 +15,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://codepen.io/shaikhmd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shaikhmd007" height="30" width="40" /></a>
 <a href="https://dev.to/shaikhmd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaikhmd007" height="30" width="40" /></a>
 <a href="https://twitter.com/shaikhmd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikhmd007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaikhmd007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad shaikh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaikhmd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad shaikh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shaikh-md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaikh-md" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shaikh_md.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shaikh_md.007" height="30" width="40" /></a>
+<a href="https://fb.com/md shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shaikh" height="30" width="40" /></a>
 <a href="https://instagram.com/shaikh_md.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikh_md.007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shaikhmohammad51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhmohammad51" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/shaikh_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="shaikhmd-FreeCodeCamp" height="30" width="40" /></a>
+<a href="https://medium.com/@ishaikhmd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishaikhmd07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shaikhmd_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaikhmd_007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shaikhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhmd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shaikhmd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikhmd007" height="30" width="40" /></a>
 <a href="https://discord.gg/shaikhmd#4950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shaikhmd#4950" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
