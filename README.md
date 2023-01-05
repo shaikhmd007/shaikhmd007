@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **Web -Dev & FE-Solution**
 
 - 📫 How to reach me **ishaikhmd07@gmail.com**
 
